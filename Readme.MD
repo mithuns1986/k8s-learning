@@ -1,8 +1,8 @@
-##Clone repo
+## Clone repo
 
 git clone <thisRepoUrl>
 
-##To create deployment
+## To create deployment
 kubectl apply -f nginx-deployment.yaml 
 
 ## To expose nginx service
