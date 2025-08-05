@@ -1,7 +1,3 @@
-Here’s a comprehensive `README.md` you can use to guide learners through deploying and exposing an Nginx application on Kubernetes using NodePort:
-
----
-
 # 🚀 Kubernetes Nginx Deployment Tutorial
 
 This repository demonstrates how to deploy an Nginx application on Kubernetes and expose it using a NodePort service.
@@ -78,7 +74,3 @@ kubectl delete -f nginx-service.yaml
 
 - [Kubernetes Services](https://kubernetes.io/docs/concepts/services-networking/service/)
 - [Expose Your App](https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/)
-
----
-
-Would you like me to help format this directly in your GitHub repo or add sections for troubleshooting and scaling tips?
